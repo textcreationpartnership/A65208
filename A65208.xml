@@ -1,0 +1,754 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A necessary family-book both for the city &amp; country, in two parts. Containing exact, plain and short rule and directions, for taking and killing all manner of vermin on land and in water: as, Part I. By land. The fox, polcat, buzzard, kite, weasle, adder, snake, caterpiller, frog, mile, pismire, fly, bug, rats and mice, fleas and lice. Part II. By water. The hern, dob-chick, coot, or more-hen, cormorant, sea-pie, kings-fisher, otter, water-rat, and ospray, all great destroyers of fish. To which are added, many natural and artificial conclusions, both pleasant and profitable. The whole illustrated with many proper figures. By R. W. gent.</title>
+            <author>R. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 56 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65208</idno>
+            <idno type="STC">Wing W100</idno>
+            <idno type="STC">ESTC R217643</idno>
+            <idno type="EEBO-CITATION">99829298</idno>
+            <idno type="PROQUEST">99829298</idno>
+            <idno type="VID">33735</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65208)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33735)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1940:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A necessary family-book both for the city &amp; country, in two parts. Containing exact, plain and short rule and directions, for taking and killing all manner of vermin on land and in water: as, Part I. By land. The fox, polcat, buzzard, kite, weasle, adder, snake, caterpiller, frog, mile, pismire, fly, bug, rats and mice, fleas and lice. Part II. By water. The hern, dob-chick, coot, or more-hen, cormorant, sea-pie, kings-fisher, otter, water-rat, and ospray, all great destroyers of fish. To which are added, many natural and artificial conclusions, both pleasant and profitable. The whole illustrated with many proper figures. By R. W. gent.</title>
+                  <author>R. W.</author>
+               </titleStmt>
+               <extent>[2], 80, [12] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed for John Harris, at the Harrow against the church in the Poultry,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With six final advertisement leaves.</note>
+                  <note>Parts 1 and 2 and "Natural and artificial conclusions, both pleasant and profitable" are each headed by caption titles; pagination and register are continuous.</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wildlife pests --  England --  Early works to 1800.</term>
+               <term>Pests --  Control --  England --  Early works to 1800.</term>
+               <term>Handbooks, vade-mecums, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33735:1" rendition="simple:additions"/>
+            <p>A Neceſſary FAMILY-BOOK, Both for the CITY &amp; COUNTRY, <hi>In Two Parts.</hi>
+            </p>
+            <p>CONTAINING Exact, Plain and Short <hi>Rules</hi> and <hi>Di<g ref="char:EOLhyphen"/>rections,</hi> for Taking and Killing all man<g ref="char:EOLhyphen"/>ner of VERMIN on Land and in Water: As,</p>
+            <p>
+               <list>
+                  <item>
+                     <label>PART I. BY LAND.</label> The <hi>Fox, Polcat, Buzzard, Kite, Weaſle, Adder, Snake, Caterpiller, Frog, Mole, Piſmire, Fly, Bug, Rats</hi> and <hi>Mice, Fleas</hi> and <hi>Lice.</hi>
+                  </item>
+                  <item>
+                     <label>PART II. BY WATER.</label> The <hi>Hern, Dob-Chick, Coot,</hi> or <hi>More-hen, Cormorant, Sea-Pie, Kings-fiſher, Otter, Water-Rat,</hi> and <hi>Oſ<g ref="char:EOLhyphen"/>pray,</hi> all great deſtroyers of Fiſh.</item>
+               </list>
+            </p>
+            <p>To which are added, Many Natural and Artificial Concluſions, both Pleaſant and Profitable.</p>
+            <p>
+               <hi>The whole Illuſtrated with many proper Figures.</hi>
+            </p>
+            <p>BY <hi>R. W.</hi> Gent.</p>
+            <p>
+               <hi>London:</hi> Printed for <hi>John Harris,</hi> at the <hi>Harrow</hi> againſt the Church in the <hi>Poultry.</hi> 1688.</p>
+            <p>Price 6 <hi>d.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33735:2"/>
+            <pb n="1" facs="tcp:33735:2"/>
+            <head>A Neceſſary FAMILY-BOOK Both for the <hi>City</hi> and <hi>Country.</hi>
+            </head>
+            <div type="introduction">
+               <head>INTRODUCTION.</head>
+               <p>
+                  <hi>SInce the generality of Man<g ref="char:EOLhyphen"/>kind is wonderfully di<g ref="char:EOLhyphen"/>ſturb'd by theſe ſmall and inconſiderable Inſects and Vermin, I have here Expos'd (for general good) many Ex<g ref="char:EOLhyphen"/>cellent
+<pb n="2" facs="tcp:33735:3"/>
+and Infallible Receipts for the taking and deſtroying of them, partly Collected from Learned and Judicious Authors, who have been proud of ſearch<g ref="char:EOLhyphen"/>ing into the Nature of theſe ſmall things, and partly from my own Obſervation and ſuc<g ref="char:EOLhyphen"/>ceſsful Practice, to the great Advantage of many others as well as my ſelf. So, not doubt<g ref="char:EOLhyphen"/>ing but that they will prove advantagious to ſuch as ſhall put them in practice, I ſhall orderly proceed.</hi>
+               </p>
+            </div>
+            <div n="1" type="chapter">
+               <pb n="3" facs="tcp:33735:3"/>
+               <head>CHAP. I. <hi>Of the FOX.</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>1. The Drag-Hook to take the Fox.</head>
+                  <figure>
+                     <figDesc>depiction of trap</figDesc>
+                  </figure>
+                  <p>THIS Engine is called a Drag-Hook; it is made of
+<pb n="4" facs="tcp:33735:4"/>
+Iron or great Wyer, and turns on the Weavel like a Grey-hounds Coller. The Husbandmen in <hi>France</hi> hang them on branches of divers Trees, about their Grounds, to take the Fox, Woolf, or Dog, but chiefly for the Fox: they hang them ſo high from the ground, that a Fox muſt leap at it, before he can catch it; which Hooks are baited and cover'd with Livers of Beaſts, or other Fleſh. When he catches the Hook in his mouth, he cannot deliver himſelf from it, but hangs and turns about with the Hook in his mouth. And hereunto they make trains with ſome Gar<g ref="char:EOLhyphen"/>bage againſt night. By this En<g ref="char:EOLhyphen"/>gine they deſtroy many of their Foxes, which otherwiſe would devour many of their Lambs and Poultry.</p>
+                  <p>
+                     <pb n="5" facs="tcp:33735:4"/>
+For men that dwell nigh the Sea-ſide, where there are no Trees, there 'twill be convenient to ſet up Gibbets and hang your Drags thereon, and ſo you may deſtroy your Foxes in a ſhort time.</p>
+               </div>
+               <div n="2" type="section">
+                  <pb n="6" facs="tcp:33735:5"/>
+                  <head>2. A Whip or Spring-Trap for the Fox.</head>
+                  <p>
+                     <figure>
+                        <figDesc>depiction of trap</figDesc>
+                     </figure>
+                  </p>
+                  <p>This Trap is call'd the Whip or Spring. It is ſet thus: There is a String ty'd unto the end of ſome Pole ſet faſt in the ground; unto the ſaid String is made faſt a
+<pb n="7" facs="tcp:33735:5"/>
+ſmall ſhort Stick with a nick in the lower end thereof, made thin on the upper-ſide, there the Pole is bound down with it unto another Stick ſet faſt in the ground, with a nick alſo under; then joyn both the nicks together (as you may ſee by the Figure) as ſlightly as you can, then open the end of your String: ſet it in ſome Muck, or where you think good. When any Fox or other thing do pluck the ſaid upper-ſtring aſide, then the nick ſlips by, and the Pole ſtarts, and ſo holds him up. There is yearly kill'd by Foxes in this Kingdom, as many do judge, 1000 Lambs, 2000 Poultry, 4000 couple of Rabbets, beſides young Fawns in many Parks and Forreſts.</p>
+               </div>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="8" facs="tcp:33735:6"/>
+               <head>CHAP. II. <hi>Of the POLCAT.</hi>
+               </head>
+               <div type="section">
+                  <head>The Dead-fall for Polcats.</head>
+                  <figure>
+                     <figDesc>depiction of trap</figDesc>
+                  </figure>
+                  <p>THis Dead-fall is made with a ſquare piece of Timber, or
+<pb n="9" facs="tcp:33735:6"/>
+ſuch-like, weighing about fifty pounds or more, with a hole bor'd in the midſt of the upper-ſide, and therein a hooked Crook ſet faſt. There is alſo four forked Stakes which muſt be ſet faſt in the ground: then lay thereon two Sticks acroſs, on which Sticks you muſt lay a long Staff to hold up the Dead-fall by the Crook; under which Crook you muſt put a ſhort Stick with a Line made faſt thereunto, which Line reacheth down to the Bridge below, which Bridge you muſt make five or ſix inches broad.</p>
+                  <p>Alſo on both ſides of this Fall you muſt ſet Boards or Pails, or you may hedge it with cloſe Rods, and make it ten inches high or more. The four ſpreading cor<g ref="char:EOLhyphen"/>ners are made to ſhew the low Hedges, that no Vermine ſhall paſs ſo eaſily by, but come through
+<pb n="10" facs="tcp:33735:7"/>
+the Fall. The Paſſage muſt be no wider than the Fall is broad.</p>
+               </div>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. <hi>Of the B<g ref="char:V">Ʋ</g>ZZARD and KITE.</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>1. A Trap for Buzzards and Kites.</head>
+                  <p>
+                     <figure>
+                        <figDesc>depiction of trap</figDesc>
+                     </figure>
+                  </p>
+                  <p>THis Trap is made after this manner: You muſt ſet a
+<pb n="11" facs="tcp:33735:7"/>
+Hurdle on the ground where you think good, which Hurdle muſt be held up before with a crooked Stick, and that Stick is held up with a forked Stick put under it, which forked Stick muſt ſtand looſe on the ground, without the lower Bridge or forked Stick: Alſo in ſetting up the lower end of the crooked Stick, that holds up the Hurdle, you muſt ob<g ref="char:EOLhyphen"/>ſerve that it be ſmall, and ſlightly put into the forked Stick and Bridge; which forked Stick is made faſt and ty'd with two threads to the ground, under the back of the Hurdle: And when you ſet it up, it ſhall be good, with the crooked Stick's end, to let the Bridge ſtand a handful high from the ground, and put therein the end of your crooked Stick as ſlight as you can, that
+<pb n="12" facs="tcp:33735:8"/>
+when any thing comes to take the Bait and treads it down the Hurdle falls ſuddenly on them.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>2. To take the Buzzard with three Lime-Twigs.</head>
+                  <p>
+                     <figure>
+                        <figDesc>depiction of trap</figDesc>
+                     </figure>
+                  </p>
+                  <p>Theſe Lime-Twigs are to take the Buzzard in the Spring of the Year, as in <hi>March</hi> and <hi>April,</hi> and are thus made: Take three ſmall Rods growing on the end of ſome
+<pb n="13" facs="tcp:33735:8"/>
+Bough, or three ſmall Twigs ſet on the end of a pretty big Stick. You muſt ſo place them, that two Twigs muſt lie on the ground, and the other lying over, the Stick muſt have a hole bor'd in the end, and a Mouſe-tail, or a Thread with a live Mouſe, muſt be ty'd unto it. Alſo the Twigs muſt be finely laid with Lime, and in a morning laid on the ground, where you do ſee any Buzzards near, and as ſoon as you are gone, if ſhe ſpy the Mouſe, you ſhall ſee her ſoon taken. This is a very good way to take them in the Spring, but at other times not ſo good.</p>
+               </div>
+               <div n="3" type="section">
+                  <pb n="14" facs="tcp:33735:9"/>
+                  <head>3. A Trap to take Birds, to be ſet up in Corn-Fields, or Orchards.</head>
+                  <p>
+                     <figure>
+                        <figDesc>depiction of trap</figDesc>
+                     </figure>
+                  </p>
+                  <p>This Trap is made with a Pole of ſeven or eight inches about, and
+<pb n="15" facs="tcp:33735:9"/>
+ſeven or eight foot long, ſet faſt in the ground. Make in the ſaid Pole two holes, one below, and the other above; in the lower<g ref="char:EOLhyphen"/>moſt hole fix a Spring-wand, and bow it unto the hole above; through which hole you muſt put a String tyed faſt to the end of the Wand, which hath a knot to keep it from ſlipping off: on the fore-ſide of the hole you muſt put a blunt piece of Wood ſeven or eight inches long, ſet looſly in by the knot to ſtay the String, which Pin muſt be cleft in the middle, and in the cleft you muſt put a Cherry or Ear of Wheat for a Bait; then ſpread the String on the aforeſaid Pin, as you may ſee by the Figure. The top of your Stick muſt be made ſharp, that no Fowl may light thereon, and when any lights on the Pin it
+<pb n="16" facs="tcp:33735:10"/>
+drops out, and the String takes them by the legs. You may ſet many ſuch about your Grounds, or you may make them on the boughs of your Trees.</p>
+               </div>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. <hi>Of WEASELS.</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>1. To gather Weaſels together.</head>
+                  <p>TAke the Gut of a Lizard and beat it with Spring<g ref="char:EOLhyphen"/>water, and pour it on the ground in ſuch places where the Weaſels uſually come, and they will in an inſtant gather together to that place.</p>
+               </div>
+               <div n="2" type="section">
+                  <pb n="17" facs="tcp:33735:10"/>
+                  <head>2. How to kill Weaſles.</head>
+                  <p>Take Sal-armoniack and Wheat<g ref="char:EOLhyphen"/>flour, mix it into a Paſte with Honey, and throw it in ſuch pla<g ref="char:EOLhyphen"/>ces where the Weaſles uſually come; they will greedily eat it, and it quickly killeth them.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>3. To prevent Weaſles from ſucking of Eggs.</head>
+                  <p>Take Rue and lay it about tho places where the Hens lay, and the Weaſles will not come near them.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>4. To drive Weaſles away.</head>
+                  <p>You muſt catch a Hedg-Weaſle alive, and cut out his Stones, and cut his Tail ſhort, ſo let him run,
+<pb n="18" facs="tcp:33735:11"/>
+and all the other, be they never ſo many, will run away to other places.</p>
+               </div>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V. <hi>Of ADDERS and SNAKES.</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>1. How to gather Snakes and Ad<g ref="char:EOLhyphen"/>ders to one place.</head>
+                  <p>TAke one handful of Onion, and ten River Crab-fiſh, pound them together, and lay it in the places where the Snakes and Adders are, and they will all ga<g ref="char:EOLhyphen"/>ther together.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>2. To kill Snakes and Adders.</head>
+                  <p>Take a large Rhadiſh, and ſtrike the Adder and Snake with it, and one blow will kill them.</p>
+               </div>
+               <div n="3" type="section">
+                  <pb n="19" facs="tcp:33735:11"/>
+                  <head>3. To drive Adders and Snakes out of Gardens.</head>
+                  <p>Plant in ſeveral places of the Garden Wormwood, and they will not frequent the Garden.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>4. Another.</head>
+                  <p>Take Dears Suit and ſtrow it up and down where they uſually come, and they will depart from the place.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>5. Another.</head>
+                  <p>Take the Roots of Centaury, and lay it in the place where they come, and they will depart.</p>
+               </div>
+               <div n="6" type="section">
+                  <pb n="20" facs="tcp:33735:12"/>
+                  <head>6. How to touch and handle Snakes and Adders without harm.</head>
+                  <p>Waſh your hands with the Juice of Rhadiſhes, and you may freely touch them without dan<g ref="char:EOLhyphen"/>ger; or take in your hand the Herb <hi>Sidretum,</hi> and the Snake or Adder will not hurt you.</p>
+               </div>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI. <hi>Of the CATERPILLER.</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>1. How to kill Caterpillers.</head>
+                  <p>TAke Ox-Piſs and Lees of Oyl and boil them together; it kills the Caterpiller infallibly, if you caſt it upon the Trees or Buſhes where they are.</p>
+               </div>
+               <div n="2" type="section">
+                  <pb n="21" facs="tcp:33735:12"/>
+                  <head>2. Another.</head>
+                  <p>Take Sheeps Dung, and a ſmall quantity of Tar, mix it with Chamber-lye, and apply it Morn<g ref="char:EOLhyphen"/>ing and Evening to the Root, Stalk, or Branch, infected with Caterpillers, and in a very ſhort time it will kill them.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>3. Another.</head>
+                  <p>Take Fig-leaf Aſhes, and caſt it on the Root, and it deſtroyeth the Caterpillers; Or take a Gallon of Crabs, and ſteep them ten days in Water, and ſprinkle the Trees with the Water, and it killeth the Caterpiller.</p>
+               </div>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="22" facs="tcp:33735:13"/>
+               <head>CHAP. VII. <hi>Of FROGS.</hi>
+               </head>
+               <div type="section">
+                  <head>To gather together and kill Frogs.</head>
+                  <p>TAke Ox, Sheep, or Goats Gaul, and bruiſe it by the Water-ſide, and the Frogs will gather to it, and ſo will quickly die.</p>
+               </div>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="23" facs="tcp:33735:13"/>
+               <head>CHAP. VIII. <hi>Of the MOLE.</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>1. How to gather Moles together to one place.</head>
+                  <p>TAke a living Mole, and put her in an Earthen Pot, ſtop it cloſe, and make a Fire in the place where you would gather the Moles together, and ſet the Pot on the Fire, and immediate<g ref="char:EOLhyphen"/>ly all the Moles will gather to the Pot, hearing the Mole in the Pot cry.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>2. How to kill Moles.</head>
+                  <p>Take an Earthen Jug, or Pot, that hath a full Body, and nar<g ref="char:EOLhyphen"/>row
+<pb n="24" facs="tcp:33735:14"/>
+Neck, and put Brimſtone, Cedar-wood, Bees-wax, and Roſin cut into ſmall pieces, mix them together, then ſtop the Mole-holes that are near with the Earth, that the Moles have caſt out, all but one, and into the hole that is open put the Neck of the Earthen Pot, after the combuſtible matter is ſet on fire, ſo that the ſmoke of the Pot may enter into the Earth where the Moles paſſeth, and they will immediately be choked.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>3. Another.</head>
+                  <p>Take white Hellibore bruiſed very ſmall, mix with it Wheat<g ref="char:EOLhyphen"/>flour, the Whites of Eggs, Milk and Wine, and lay little Cakes of it in the mouth of the holes, and the Moles will greedily eat of it, and it certainly killeth them, or
+<pb n="25" facs="tcp:33735:14"/>
+take the Juyce of wild Cucumber, and pour it into their holes, and it killeth them.</p>
+               </div>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. IX. <hi>Of the PISMIRE.</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>1. How to drive away Piſmires.</head>
+                  <p>TAke half a Pound of Brim<g ref="char:EOLhyphen"/>ſtone, melt it in an Earthen Pot, on a ſlow fire, mix with it the Salt of Wine, Stone three or four Ounces, mix it ſo long till it become red, then take it from the fire, and beat it on a Board with fair Water, and it will cool im<g ref="char:EOLhyphen"/>mediately, then let it dry, and beat it to powder in a Morter; then put it into a Glaſs of Water, and let it ſtand till it hath co<g ref="char:EOLhyphen"/>loured
+<pb n="26" facs="tcp:33735:15"/>
+the Water, ſprinkle the Wa<g ref="char:EOLhyphen"/>ter on the Piſmires Banks, and it kills them.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>2. To kill Piſmires.</head>
+                  <p>Take the Roots of wild Cucum<g ref="char:EOLhyphen"/>bers, and ſet them on fire where the Piſmires are, and the ſmoke will kill them; Or take <hi>Cirenicum</hi> and melt it in Oyl, and pour it on the Piſmire-banks, and it will kill them.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>3. Another.</head>
+                  <p>Take Musk-ſhells, burn them with Storax, and beat them to a ſmall Powder, and ſtrew the Pow<g ref="char:EOLhyphen"/>der where the Piſmires uſually are, and in the great Banks, and it will kill them.</p>
+               </div>
+            </div>
+            <div n="10" type="chapter">
+               <pb n="27" facs="tcp:33735:15"/>
+               <head>CHAP. X. <hi>Of FLIES.</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>1. To gather Flies together.</head>
+                  <p>TAke a deep Earthen Pot, and lay in it beaten. Coriander, and all the Flies in the Houſe ſhall be gathered together.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>2. To kill Flies.</head>
+                  <p>Take Allum and Origanum, beat them, and mix them with ſweet Milk, and ſprinkle the Room and places where the Flies come, and they will all die.</p>
+               </div>
+               <div n="3" type="section">
+                  <pb n="28" facs="tcp:33735:16"/>
+                  <head>3. To keep Cattel from Injuries by Flies.</head>
+                  <p>Anoint the Beaſt with Oyl wherein Bakeler hath been boiled, and the Flies ſhall not come near him; or anoint the Horſe, Ox, or Cow with the Juyce of Car<g ref="char:EOLhyphen"/>woerden-leaves in the beginning of Spring, and the Flies will not come at them any more that Year.</p>
+               </div>
+            </div>
+            <div n="11" type="chapter">
+               <pb n="29" facs="tcp:33735:16"/>
+               <head>CHAP. XI. <hi>Of B<g ref="char:V">Ʋ</g>GGS.</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>1. To kill Buggs.</head>
+                  <p>TAke the Gall of an Ox, and mix it with Vinegar, and rub the Cracks and Joynts of the Bedſtead with it, and all the Buggs will ſuddenly die; Or take a quantity of Brimſtone, beat it to Powder, then mix the Powder with old Oyl, and uſe it as be<g ref="char:EOLhyphen"/>fore.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>2. Another.</head>
+                  <p>Take a convenient quantity of freſh Tar, mix it with the Juyce of wild Cucumbers, let it ſtand a
+<pb n="30" facs="tcp:33735:17"/>
+day or two, ſtirring it four or five times a day, then anoint the Bed<g ref="char:EOLhyphen"/>ſteads with it, and all the Buggs will die; Or take ſtrong Glew, and boyl it with Vinegar, and rub the Bedſteads with it, and the Buggs will certainly die.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>3. Another.</head>
+                  <p>Take Wormwood and Rue of each a good handful, and mix them with common Oyl, and put to them as much Water as Oyl, that the Oyl and Water may co<g ref="char:EOLhyphen"/>ver the Wormwood and Rue; then boyl it till all the Water is boyl'd away, then ſtrain the Oyl out from the Herbs, and mix it with Sheeps Suet, as much as the Oyl, anoint the Bedſteads with it; it is an infallible Remedy.</p>
+               </div>
+               <div n="4" type="section">
+                  <pb n="31" facs="tcp:33735:17"/>
+                  <head>4. Another.</head>
+                  <p>Take Brimſtone and Wax, and burn them under the Joynts of the Bedſteads and Creaſes, where the Buggs are, and they will im<g ref="char:EOLhyphen"/>mediately come out of their holes, and you may kill them; Or take Quickſilver and mix it with Hoggs-greaſe, of each a like quantity, and anoint the Bedſteads with it.</p>
+               </div>
+            </div>
+            <div n="12" type="chapter">
+               <pb n="32" facs="tcp:33735:18"/>
+               <head>CHAP. XII. <hi>Of FLEAS.</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>1. How to kill Fleas.</head>
+                  <p>TAke Sope-Lees, and boyl two or three Onions in it, let it cool, then ſprinkle the Room with it, and it kills the Fleas. Or this, Take Muſtard-ſeed, and boyl it with the Herb <hi>Daphines</hi> in Water, and ſprinkle the Room with it.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>2. Another.</head>
+                  <p>Take Wormwood, Lavender, and Nut-leaves, and boyl them in Vinegar a good while, then ſprinkle the Blanket with it; it certainly kills the Fleas.</p>
+               </div>
+               <div n="3" type="section">
+                  <pb n="33" facs="tcp:33735:18"/>
+                  <head>3. Another.</head>
+                  <p>Take an Earthen Platter, that is broad and ſhallow, fill it half full with Goats Blood, and ſet the Platter under the Bed, and all the Fleas will come into it like a ſwarm of Bees. Or take the Blood of a Bear or Badger, and put it under the Bed, as before, and it gathers the Fleas to it, and they die immediately.</p>
+               </div>
+            </div>
+            <div n="13" type="chapter">
+               <pb n="34" facs="tcp:33735:19"/>
+               <head>CHAP. XIII. <hi>Of LICE.</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>1. How to kill Lice.</head>
+                  <p>TAke Hogs-Lard, Quickſilver and Sage, as much of each as is needful, and mix them toge<g ref="char:EOLhyphen"/>ther to a Salve, and anoint the af<g ref="char:EOLhyphen"/>flicted place.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>2. How to kill Nits and Lice in the Head.</head>
+                  <p>Take three Ounces of Oyl of Olives, one Ounce of Wax, three Drams of Stavoſaee, and as much Quickſilver, of theſe make a Salve, and anoint the Head all over, it certainly kills the Nits and Lice.</p>
+               </div>
+               <div n="3" type="section">
+                  <pb n="35" facs="tcp:33735:19"/>
+                  <head>3. Another.</head>
+                  <p>Take red Orpiment and Salt-Peter, of each a Dram, and Lice-Herb two Drams, mix theſe toge<g ref="char:EOLhyphen"/>ther with Oyl and Vinegar, and anoint the Head with it, and it kills them.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>4. How to kill Crab-Lice.</head>
+                  <p>Take a roaſted Apple, and take the Skin and Core from it, and beat it in a Morter with as much Quickſilver as will make it into an Oyntment, and therewith dreſs the afflicted place.</p>
+               </div>
+            </div>
+            <div n="14" type="chapter">
+               <pb n="36" facs="tcp:33735:20"/>
+               <head>CHAP. XIV. <hi>Of RATS and MICE.</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>1. How to gather together all the Rats and Mice into one place in a Houſe or Barn, and to kill them.</head>
+                  <p>TAke a Braſs or Copper Pot as big as you can get, and fill it half full of the Dregs of Oyl, and then ſet it in the moſt convenient place in the Houſe, about the middle, and all the Rats and Mice will make their appea<g ref="char:EOLhyphen"/>rance, as if it were an Aſſembly of an Army of Rats and Mice, and you may then ſtrew about the place Pot-aſhes, and it kills them all.</p>
+               </div>
+               <div n="2" type="section">
+                  <pb n="37" facs="tcp:33735:20"/>
+                  <head>2. Another.</head>
+                  <p>Take two or three living Rats or Mice, and put them into an Earthen Pot, then ſtop the Pot cloſe, that the Rats or Mice may not come forth, then make a fire of Aſhen-tree-wood, and place the Pot on the fire, and when it burneth moderately, all the Rats and Mice in the Houſe, hearing the cry of thoſe in the Pot, will run immediately to the place where the Pot ſtandeth on the fire, as if they did intend by force to deliver the Rats and Mice in the Pot.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>3. Another.</head>
+                  <p>Take Hemlock-ſeed and caſt it into the Holes where they uſual<g ref="char:EOLhyphen"/>ly
+<pb n="38" facs="tcp:33735:21"/>
+come, and they will eat it gree<g ref="char:EOLhyphen"/>dily, and it certainly killeth them.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>4. Another.</head>
+                  <p>Take very ſmall Filings of Iron or Steel, which you may have at any Smiths, that worketh with ſmall Files, mix the File-duſt with Wheat-dow, and when you lay it into the holes the Mice will gree<g ref="char:EOLhyphen"/>dily eat of it, and it is preſent death to them.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>5. How to make Rats and Mice blind.</head>
+                  <p>Take <hi>Tithimalum</hi> beaten to Powder, ſift it through a fine Sieve, then mix it with a like quantity of Wheat-flour, then put to it a ſufficient quantity of Me<g ref="char:EOLhyphen"/>theglin, to make it into a ſtiff
+<pb n="39" facs="tcp:33735:21"/>
+Paſte, and lay it in the uſual pla<g ref="char:EOLhyphen"/>ces where the Mice and Rats come, and in a ſhort time after they have eat it you will ſee the effects, for they will become Beetle<g ref="char:EOLhyphen"/>blind.</p>
+                  <p>And thus much I think may be ſufficient for theſe Vermin, In<g ref="char:EOLhyphen"/>ſects and Raveners, that infeſt the Houſe, Field, Park, and War<g ref="char:EOLhyphen"/>ren, from which I ſhall proceed to give you Directions how to Take and Deſtroy ſuch as haunt Fiſh-Ponds and Rivers, devouring an infinite number of Fiſh, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="2" type="section">
+               <pb facs="tcp:33735:22"/>
+               <pb n="41" facs="tcp:33735:22"/>
+               <head>PART II. <hi>By WATER.</hi>
+               </head>
+               <argument>
+                  <p>Directions how to take and kill the <hi>Hern, Dob-Chick, Coot, Cor<g ref="char:EOLhyphen"/>morant, Sea-Pie, Kings-fiſher, Otter, Water-Rat,</hi> and <hi>O<g ref="char:EOLhyphen"/>ſpray,</hi> &amp;c. all great deſtroy<g ref="char:EOLhyphen"/>ers of Fiſh.</p>
+               </argument>
+               <div n="1" type="section">
+                  <head>1. <hi>How to take the</hi> Herne.</head>
+                  <p>THE <hi>Herne</hi> deſtroys much young Fiſh, and others if they come nigh the ſhal<g ref="char:EOLhyphen"/>low Places or Banks, ſhe is fearful,
+<pb n="42" facs="tcp:33735:23"/>
+and difficult to take, therefore ſome do bait a Hook with a <hi>Minow</hi> or other ſmall Fiſh, or with a piece of an <hi>Eel;</hi> then make your Line green, or like the Water where ſhe haunts in a ſhallow place, there put your Pin in the Earth of the ſhallow Wa<g ref="char:EOLhyphen"/>ter, and lay your Bait ſo that ſhe may wade half a foot deep unto it, for elſe the <hi>Kite</hi> or <hi>Crow</hi> will ſoon have it; ſhe will ſoon ſwal<g ref="char:EOLhyphen"/>low it, and ſo be taken.</p>
+               </div>
+               <div n="2" type="section">
+                  <pb n="43" facs="tcp:33735:23"/>
+                  <head>2. <hi>How to take the</hi> Dob-Chick.</head>
+                  <p>
+                     <figure>
+                        <figDesc>depiction of trap</figDesc>
+                     </figure>
+                  </p>
+                  <p>The <hi>Dob-Chick</hi> is a Water<g ref="char:EOLhyphen"/>fowl, they are commonly on Ri<g ref="char:EOLhyphen"/>vers and Pools, they are near as large as a <hi>Theal,</hi> and are black; they will commonly dive under water to take young Fiſh. To take them, the Fiſhermen do lay
+<pb n="44" facs="tcp:33735:24"/>
+on the Water long Lines of ſmall Thread, knit full of little Corks, a handful aſunder on the Line, and cut four-ſquare, like big Dice, (as you may ſee by the fore-going Picture) and where they ſee them haunt they will ſpread the ſaid Line before them on the water, then with their Boots on, drive them to the ſaid Line; and by this means many are taken.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>3. <hi>How to take or kill the</hi> Coot <hi>or</hi> More-hen.</head>
+                  <p>The <hi>Coot</hi> or <hi>More-hen</hi> lives like<g ref="char:EOLhyphen"/>wiſe on Waters, and alſo are great deſtroyers of Fiſh. To kill or take theſe, the only way is with Lime or Gun.</p>
+               </div>
+               <div n="4" type="section">
+                  <pb n="45" facs="tcp:33735:24"/>
+                  <head>4. <hi>How to deſtroy the</hi> Cormo<g ref="char:EOLhyphen"/>rant.</head>
+                  <p>The <hi>Cormorant</hi> is a great de<g ref="char:EOLhyphen"/>ſtroyer of Fiſh alſo, he uſeth the freſh Waters, and will dive un<g ref="char:EOLhyphen"/>der the water and take Fiſh of three or four Years growth. The only way to deſtroy them is by deſtroying their Neſts in breed<g ref="char:EOLhyphen"/>ing-time; they breed in Iſlands and Rocks by the Sea. Some may be deſtroyed in Rivers and Pools with a Croſs-bow or Hand<g ref="char:EOLhyphen"/>gun.</p>
+               </div>
+               <div n="5" type="section">
+                  <pb n="46" facs="tcp:33735:25"/>
+                  <head>5. <hi>How to take</hi> Sea-Pies.</head>
+                  <figure>
+                     <figDesc>depiction of trap</figDesc>
+                  </figure>
+                  <p>The <hi>Sea-Pie</hi> is a Fowl that u<g ref="char:EOLhyphen"/>ſeth the Seas, and breeds in I<g ref="char:EOLhyphen"/>ſlands in the Sea, and lives moſt by Fiſh. Where they uſe in freſh Rivers, they deſtroy much young Fry, and ſuch as ſwim near the top of the water. One way to take them is, by liming two ſmall Oziars, and bind the ends that
+<pb n="47" facs="tcp:33735:25"/>
+are next the Bait almoſt croſs<g ref="char:EOLhyphen"/>wiſe, then take another ſhort ſtick and bind the one end unto your ends of croſs Twigs, (as you may ſee by the Figure) and put that ſhort ſtick through the Fiſh or Bait, then lay it on ſome Water-leaf, Ruſhes, or ſuch like, in the midſt of the River, and, as ſoon as they ſee it, they will take and fly away with it in their Bills, but are immediately lim'd and taken.</p>
+                  <p>Another way of laying theſe Lime-twigs is, You muſt put a ſmall ſhort Stick in the Bait, (as you may ſee by the Figure) and at the lower-end tye a Thread an Inch long, and to that Thread tye your limed Twigs, and when ſhe takes and flies away with it, ſhe cannot fly far but ſhe will be
+<pb n="48" facs="tcp:33735:26"/>
+limed, for the Twigs will turn and touch her Wings, and then ſhe will fall.</p>
+                  <p>Thus you may take many <hi>Sea-Pies</hi> both in Summer and Winter, and the ſame way you may take both <hi>Crows</hi> and other <hi>Birds.</hi>
+                  </p>
+               </div>
+               <div n="6" type="section">
+                  <head>6. <hi>How to take the Bird called the</hi> Kings-fiſher.</head>
+                  <p>This Bird is likewiſe a great deſtroyer of young Fry and ſmall Fiſh; he is about the bigneſs of a <hi>Lark,</hi> and doth commonly breed in Banks of Rivers and Brooks; his Feathers are green and Blew; he always haunts about the ſides of Rivers and Brooks, where ſmall Fiſh are, and as ſoon as he hath caught a Fiſh he will fly to the next Bough, and there ſit on a Twig and eat the Fiſh. To take
+<pb n="49" facs="tcp:33735:26"/>
+this Bird, you muſt mark where his haunt is, and there ſet down a Buſh or Branch, and put a Lime-twig under the ſaid Buſh, for ſo ſoon as he hath taken a Fiſh he will fly thither and light on that under Twig lim'd, and ſo you take him.</p>
+                  <p>This Bird, being dead, if you hang him up by the Bill with a Thread in your Houſe, where no Wind bloweth, his Breaſt will always hand againſt the Wind, whereby you may know perfect<g ref="char:EOLhyphen"/>ly in what Quarter the Wind is at all times, both Night and Day.</p>
+               </div>
+               <div n="7" type="section">
+                  <pb n="50" facs="tcp:33735:27"/>
+                  <head>7. <hi>How to take the</hi> Otter.</head>
+                  <p>To take the <hi>Otter</hi> or <hi>Water-Woolf</hi> in a Weel made for that purpoſe, is as followeth: This Weel is not made in all points like unto other Weels, where he eateth the Fiſh and comes forth again ſafe, but is made with a double Teme or Tonuel, and a<g ref="char:EOLhyphen"/>gainſt the utmoſt Teme within is ſet an Iron, like a Grid-iron, with four holes, ſtaying and ſliding upon two round Sticks, which muſt be ſet upright in the Weel before the Teme, to hold up the Iron, which two Sticks muſt be faſt bound to the Weel, both a<g ref="char:EOLhyphen"/>bove and beneath; then muſt you have a good ſtiff Rod, the one end muſt be ſet over the Weel, to hold up the Grid-iron or
+<pb n="51" facs="tcp:33735:27"/>
+Grate, and the other end of the Rod muſt reach over the inner Teme, and a ſmall Ozier ty'd at that end of the Rod, which ſmall Ozier muſt be made with a round knot, and ſo put down upon the end of the lowermoſt Ozier, in the middle of the inner Teme, but a very little way put on, that when the <hi>Otter</hi> is within the firſt Teme, he comes to the ſe<g ref="char:EOLhyphen"/>cond, where the Fiſh is, and there he puts off the Ozier, and the Rod flirts up, and the Grid<g ref="char:EOLhyphen"/>iron falls and ſtops the outmoſt Teme, where he came in; as ſoon as he hears it fall, he will turn back, without touching any Fiſh, gnawing the Grid-iron, and ſo is drown'd.</p>
+                  <p>This Deſcription ſhews the ſet<g ref="char:EOLhyphen"/>ting of the Grid-iron before the Teme of the Weel, and when
+<pb n="52" facs="tcp:33735:28"/>
+he falls, to reſt on two ſtiff Oziers, as you may ſee above; but when you ſhall Set or Tile the ſaid Grid-iron, it muſt be plucked up above the mouth of the Teme; all the Oziers muſt be cut even by the wreath, except thoſe two that muſt hold up the Grid-iron beneath; which Mouth of the Teme muſt be betwixt ſix and ſeven Inches deep, ſo that a pret<g ref="char:EOLhyphen"/>ty big Dog may creep therein; for if it be too little, the <hi>Otter</hi> will gnaw the Weel; alſo the Grid<g ref="char:EOLhyphen"/>iron muſt fall eaſily on the two ſticks that ſtay it, and muſt be broader than the mouth of the Teme, and put in when the Weel is a making. The Grid-iron is made with five flat Bars, weighing about two Pound weight, becauſe it may fall the ſooner.</p>
+               </div>
+               <div n="8" type="section">
+                  <pb n="53" facs="tcp:33735:28"/>
+                  <head>8. <hi>How to take the</hi> Water-Rat.</head>
+                  <p>The <hi>Water-Rat</hi> is a hurtful Ver<g ref="char:EOLhyphen"/>min, that kills Fiſh, eſpecially <hi>Crevis, Loches, Culles,</hi> and <hi>Trouts,</hi> lying in holes of Banks. They do deſtroy much other Fiſh and Spawn in ſhallow Rivers and Brooks. It is hard to kill them; but where you ſee their Paths on Bank-ſides, there ſet a Dead-fall, for they range abroad at Nights, like other Rats, and will frequent Corn-mills and Fulling-mills, to eat Corn and gnaw Cloaths. The only way to take them is, to pin ſquare Boards againſt the holes where they haunt, which Boards muſt have a great hole in the midſt, and ſet juſt againſt their coming in or out, faſtned to the Banks; then make a Latch, and
+<pb n="54" facs="tcp:33735:29"/>
+ſet it on the out-ſide of the Board, tiled as you tile the Fox-Latch, (as you have ſeen before in its proper place) on the lower part of the hole before mentioned; you muſt put three or four Pricks of Wyer, to hold any thing that comes out or in. This Experi<g ref="char:EOLhyphen"/>ment is eaſily try'd.</p>
+               </div>
+               <div n="9" type="section">
+                  <head>9. <hi>How to kill the</hi> Oſpray.</head>
+                  <p>The <hi>Oſpray</hi> is a Bird like a <hi>Hawk,</hi> near as big as the <hi>Tarcel</hi> of a <hi>Goſhawk;</hi> he is a great de<g ref="char:EOLhyphen"/>ſtroyer of Fiſh; he will take Fiſh in the midſt of a great Pond; he hath one Foot like a <hi>Duck,</hi> and the other like a <hi>Hawk;</hi> as he flies over the water the Fiſh will come up unto him. The beſt way to kill him is to watch where he eats his Fiſh, (for he will eat
+<pb n="55" facs="tcp:33735:29"/>
+it on ſome Tree near the place where he takes it) and there kill him with a Gun.</p>
+               </div>
+               <div n="10" type="section">
+                  <head>10. <hi>How to make</hi> Lime.</head>
+                  <p>Take the Berries of <hi>Miſletoe</hi> ga<g ref="char:EOLhyphen"/>thered in Autumn, in the full of the Moon, (for then they are in moſt force) and bruiſe them, let<g ref="char:EOLhyphen"/>ting them lye for a ſpace to rot, then waſh them in running Wa<g ref="char:EOLhyphen"/>ter, till they be clean, like other Lime; and therewith you may take Birds, as with other Bird<g ref="char:EOLhyphen"/>lime made of the Bark of Holly.</p>
+               </div>
+               <div n="11" type="section">
+                  <pb n="56" facs="tcp:33735:30"/>
+                  <head>11. <hi>To make Bird-lime that will ſerve in Water.</hi>
+                  </head>
+                  <p>Take a Pound of Bird-lime, cleanſe and waſh it in run<g ref="char:EOLhyphen"/>ning Water very well, that no Knots be left therein, then beat out the Water, and dry it again; then put thereto two Spoonfuls of ſharp Vinegar and as much Gooſe-greaſe as will make it run; add there<g ref="char:EOLhyphen"/>to half a Spoonful of Lamp-Oyl, and a little <hi>Venice</hi> Tur<g ref="char:EOLhyphen"/>pentine; then boyl all theſe together in an Earthen Pan, and ſtir it well: ſo take it off the Fire, and reſerve it, and warm it when you uſe it.</p>
+                  <p>
+                     <pb n="57" facs="tcp:33735:30"/>
+And thus much for the Ta<g ref="char:EOLhyphen"/>king and Killing of thoſe ra<g ref="char:EOLhyphen"/>venous Deſtroyers of Fiſh. From which I ſhall proceed (for the Reader's divertion) to Natural and Artificial Concluſions, <hi>&amp;c.</hi> both pleaſant and profitable.</p>
+               </div>
+            </div>
+            <div type="chapter">
+               <pb facs="tcp:33735:31"/>
+               <pb n="59" facs="tcp:33735:31"/>
+               <head>
+                  <hi>Natural and Artificial</hi> CONCLUSIONS, Both Pleaſant and Profitable.</head>
+               <div n="1" type="section">
+                  <head>1. <hi>How to Take</hi> Kites, Ravens, Crows, <hi>or the like, alive.</hi>
+                  </head>
+                  <p>BUY at the Apothecaries two Penny-worth of <hi>Nux Vomica,</hi> beat it to pow<g ref="char:EOLhyphen"/>der, or ſlice it as you do Gin<g ref="char:EOLhyphen"/>ger, then take raw Fleſh, or Li<g ref="char:EOLhyphen"/>ver,
+<pb n="60" facs="tcp:33735:32"/>
+and cut it into little pieces, that they may ſwallow them whole, then cut holes in the ſame, and put your Powder or Slices therein, then lay the pie<g ref="char:EOLhyphen"/>ces where they haunt; as ſoon as they have ſwallowed down the ſame, they will fly to the next high Tree they come at; this preſently makes them ſo drunk, that they will fall down from the top of the Tree to the Ground, where you may take them up alive. You muſt be ſure to watch them, for they will ſoon recover, and fly away.</p>
+               </div>
+               <div n="2" type="section">
+                  <pb n="61" facs="tcp:33735:32"/>
+                  <head>2. <hi>To make a</hi> Cat <hi>Piſs out a Fire.</hi>
+                  </head>
+                  <p>A merry Fellow coming into an Ale-houſe in cold weather, and finding a ſorry Fire, ſaid he would make the <hi>Cat</hi> Piſs it out; and, watching his opportunity, he getteth his Hoſteſſes <hi>Cat,</hi> put<g ref="char:EOLhyphen"/>ting her Head betwixt his Thighs, and holding her four Feet faſt in one Hand, with the other held up Tail near the Fire, and ſhe did piſs ſuch abundance, that ſhe quite quench<g ref="char:EOLhyphen"/>ed the ſame.</p>
+               </div>
+               <div n="3" type="section">
+                  <pb n="62" facs="tcp:33735:33"/>
+                  <head>3. How to Write a Letter ſecretly from one Friend to another, that it cannot be diſcovered.</head>
+                  <p>Write your Letter on one ſide with common Ink, then turn your Paper, and write on the o<g ref="char:EOLhyphen"/>ther ſide with Milk, (that which you would have ſecret) and let it dry; (but obſerve your Pen be clean) when you would read it, hold that ſide which is written with Ink to the Fire, and the Milkey Let<g ref="char:EOLhyphen"/>ters will then ſhew blewiſh on the other ſide, which may be ea<g ref="char:EOLhyphen"/>ſily diſcerned.</p>
+               </div>
+               <div n="4" type="section">
+                  <pb n="63" facs="tcp:33735:33"/>
+                  <head>4. To make pleaſant Sport with Ducks and Poultrey.</head>
+                  <p>Take a Yard of ſtrong Thread and a little red Rag, tye it to one end of the Thread, at the other end faſten a bit of Cheeſe, ſomewhat leſs than a Bean, which you may throw amongſt a com<g ref="char:EOLhyphen"/>pany of Ducks, when imme<g ref="char:EOLhyphen"/>diately one of them will greedily ſwallow it down, the reſt of the Thread and Rag dragging after her, which when ſhe perceives, ſhe will be ſo affrighted, that running from place to place, and finding it ſtill follows her, will take wing, and fly into ſome Pond or Water, there percei<g ref="char:EOLhyphen"/>ving the Rag to ſwim after her, will dive into the water, and up again, for many times toge<g ref="char:EOLhyphen"/>ther,
+<pb n="64" facs="tcp:33735:34"/>
+and at laſt, being ſtill af<g ref="char:EOLhyphen"/>frighted, will fly out of the wa<g ref="char:EOLhyphen"/>ter, and run up and down, un<g ref="char:EOLhyphen"/>til the String catches hold of ſomething, that either breaks it, or pulls the Cheeſe out of her Belly, and then ſhe will be at quiet.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>5. How to break a Staff upon two Glaſſes of Water.</head>
+                  <p>Place the Glaſſes, being full of Water, upon two Joynt<g ref="char:EOLhyphen"/>ſtools, an equal diſtance from the ground, and diſtant one from the other the length of the Staff, then place the ends of the Staff upon the edges of the two Glaſ<g ref="char:EOLhyphen"/>ſes, ſo that they be ſharp; this done, with all the force you can, with another Staff, ſtrike the Staff that lies on the Glaſſes, in the
+<pb n="65" facs="tcp:33735:34"/>
+midſt, and it will break, without breaking the Glaſſes, or ſpilling the Water.</p>
+               </div>
+               <div n="6" type="section">
+                  <head>6. How to make a Glaſs of Water ſeem to Boil.</head>
+                  <p>Take a Glaſs near full of Wa<g ref="char:EOLhyphen"/>ter, and ſetting one hand upon the Foot of it, hold it faſt, turn ſlightly one of your fingers of your other hand upon the edge of the Glaſs, having before private<g ref="char:EOLhyphen"/>ly wet your finger, and ſo paſſing ſoftly on with your finger, in preſſing a little, the Water will ſeem to boil, and leap over the Glaſs by drops.</p>
+               </div>
+               <div n="7" type="section">
+                  <pb n="66" facs="tcp:33735:35"/>
+                  <head>7. How to make two Images, one of which ſhall light a Candle, and the other blow it out.</head>
+                  <p>Upon the ſide of a Wall make the Figure of two Images; in the Mouth of each put a Pipe or Quill ſo artificially, that it be not perceived; in one of which place put Salt-Peter, very fine and dry and pulverized, and at the end ſet a little Match of Paper: in the o<g ref="char:EOLhyphen"/>ther Paper put Sulphur, beaten ſmall; then, holding a lighted Candle in your hand, ſay to one of thoſe Images, by way of com<g ref="char:EOLhyphen"/>mand, <hi>Blow out the Candle:</hi> then lighting the Paper with the Can<g ref="char:EOLhyphen"/>dle, the Salt-Peter will blow out the Candle immediately: then go to the other Image, (before the Snuff of the Candle be out)
+<pb n="67" facs="tcp:33735:35"/>
+touch the Sulphur with it, and ſay, <hi>Light the Candle;</hi> and it will immediately be lighted.</p>
+               </div>
+               <div n="8" type="section">
+                  <head>8. How to make a Six-pence ſeem to fall through a Table.</head>
+                  <p>You muſt have an Handker<g ref="char:EOLhyphen"/>chief about you, having a Coun<g ref="char:EOLhyphen"/>ter neatly ſewed in one of the corners of it: take it out of your Pocket, and deſire ſomebody to lend you a Teſter, and ſeem to wrap it up in the midſt of the Handkerchief, but retain it in your hand; and inſtead of ſo doing, wrap the corner in the midſt, that hath the Counter ſew<g ref="char:EOLhyphen"/>ed in it; and then bid them feel if it be not there, which they will imagine to be no other than the Teſter, that they lent you: then bid them lay it under a Hat upon
+<pb n="68" facs="tcp:33735:36"/>
+the Table, and call for a Baſin of Water, hold it under the Table, and knock, ſaying, <hi>Vade, Come, quick;</hi> and then let the Six-pence fall out of your hand into the Wa<g ref="char:EOLhyphen"/>ter; then take up the Hat, and take the Handkerchief, and ſhake it; ſaying, <hi>It is gone;</hi> then ſhew them the Money in the Baſin of Water.</p>
+               </div>
+               <div n="9" type="section">
+                  <head>9. How to ſeem to blow a Six-pence out of another Man's hand.</head>
+                  <p>Take a Six-pence, blow on it, and clap it preſently into one of your ſpectators hands, bidding him to hold it faſt; then ask of him, if he be ſure to have it, then, to be certain, he will open his hand, and look; then ſay to him, <hi>Nay, but if you let my Breath go off, I cannot do it;</hi> then take it
+<pb n="69" facs="tcp:33735:36"/>
+out of his hand again, and blow on it, and ſtaring him in the face, clap a piece of Horn in his hand, and retain the Six-pence, ſhutting his hand your ſelf: bid him hold his hand down, and ſlip the Teſter between one of his Cuffs, then take the Stone that you ſhew feats with, and hold it unto his hand, ſaying, <hi>By Vertue hereof, I will and command the Money to vaniſh, that you hold in your hand;</hi> Vade. Now ſee, when they have look<g ref="char:EOLhyphen"/>ed, then they will think it is changed by vertue of your Stone; then take the Horn again, and ſeem to caſt it from you, retain<g ref="char:EOLhyphen"/>ing it, and ſay, <hi>Vade;</hi> and anon ſay, <hi>You have your Money again:</hi> he then will begin to marvail, and ſay, <hi>I have not;</hi> ſay then to him, <hi>You have; and I am ſure you have it; Is't not in your hand? if it be
+<pb n="70" facs="tcp:33735:37"/>
+not there, turn down one of your Sleeves, for it is in one I am ſure;</hi> where he findeth it, and will not a little wonder.</p>
+               </div>
+               <div n="10" type="section">
+                  <head>10. How to convey Money out of one of your hands into the other.</head>
+                  <p>Firſt you muſt hold open your right hand, and lay therein a Te<g ref="char:EOLhyphen"/>ſter, or ſome big piece of Money, then lay thereupon the top of your long left finger, and uſe ſome words of Art, and upon a ſudden ſlip your right hand from your finger wherewith you held down the Teſter, and bending your hand very little, you ſhall retain the Teſter therein, and ſud<g ref="char:EOLhyphen"/>denly drawing your right hand through your left, you ſhall ſeem to have left the Teſter there, eſpecially when you ſhut in due
+<pb n="71" facs="tcp:33735:37"/>
+time your left hand, which, that it may more plainly appear to be truly done, you may take a Knife, and ſeem to knock againſt it, ſo as it ſhall make a great ſound; but inſtead of knocking the piece in the left hand, (where none is) you ſhall hold the point of the Knife faſt with the left hand, and knock againſt the Teſter held in the other hand, and it will be thought to hit againſt the Money in your left hand, then after ſome words of Art pronounced upon your hand, and when nothing is ſeen, it will be wondred at, how the Teſter came removed.</p>
+               </div>
+               <div n="11" type="section">
+                  <pb n="72" facs="tcp:33735:38"/>
+                  <head>11. How to keep Cherries, Pears, Nuts, or other Fruit, a whole Year, as freſh as they came from the Tree.</head>
+                  <p>When they are pretty ripe, cut off the Stalks, and put them into an Earthen Pot well leaded, and then cover them with Honey; then ſtop the Pot with Pitch, or Wax, that no Air may come in; and then ſet the Pot in ſome Cel<g ref="char:EOLhyphen"/>lar or cool place, burying it well in Sand, and ſo let it remain un<g ref="char:EOLhyphen"/>til you uſe it.</p>
+               </div>
+               <div n="12" type="section">
+                  <head>12. How to make it Freeze by the Fire-ſide.</head>
+                  <p>This Feat cannot be done but in Winter, and when Snow is to be had. He that will perform it,
+<pb n="73" facs="tcp:33735:38"/>
+muſt have a handful of Salt in rea<g ref="char:EOLhyphen"/>dineſs; then let him call for a Joynt-ſtool, a Quart-pot, and a handful of Snow, a little Water, and a ſhort Stick or Staff; Firſt let him pour a little Water upon the Stool, and upon it let him ſet the Quart-pot, and put the Snow into the Pot, and likewiſe the Salt, but privately; then let him hold the Pot faſt with his left hand, and take the ſhort Stick in his right, and therewith churn the Snow and Salt in the Pot, as if one ſhould churn for Butter, and in half a quarter of an Hour, the Pot will freeze ſo hard to the Stool, that you can hardly pull it off with both your hands.</p>
+               </div>
+               <div n="13" type="section">
+                  <pb n="74" facs="tcp:33735:39"/>
+                  <head>13. How to tell the Number that ano<g ref="char:EOLhyphen"/>ther Man ſhall think, be it never ſo great.</head>
+                  <p>Let the Perſon that thinketh, double the Number which he thought; which being done, bid him multiply the Sum of them both by 5, and give you the Product, (which he will never refuſe to do, it being ſo far a<g ref="char:EOLhyphen"/>bove the Number thought) from the which, if you cut off or take away the laſt Figure of the Pro<g ref="char:EOLhyphen"/>duct, (which will always be a Cy<g ref="char:EOLhyphen"/>pher or 5) the Number thought will remain.</p>
+                  <div type="example">
+                     <head>As for Example.</head>
+                     <p>Let the Number thought be 23, which doubled, maketh 46, and
+<pb n="75" facs="tcp:33735:39"/>
+multiplied by 5, makes 230; then if you take away the Cy<g ref="char:EOLhyphen"/>pher, which is in the laſt place, there will remain 23, which is the Number thought.</p>
+                  </div>
+               </div>
+               <div n="14" type="section">
+                  <head>14. How to know the Hour of the Day by the Hand and Fingers.</head>
+                  <p>Take a Straw, or the like, of the length of the <hi>Index,</hi> or the ſe<g ref="char:EOLhyphen"/>cond Finger, hold this Straw very right between the Thumb and the right Finger, then ſtretch forth your Hand, and turn your Back and the Palm of your Hand towards the Sun, ſo that the ſha<g ref="char:EOLhyphen"/>dow of the Muſcle, which is un<g ref="char:EOLhyphen"/>der the Thumb, touch the Line of Life, which is between the middle of the two other great Lines, which is ſeen in the Palm of the Hand; this done, the end
+<pb n="76" facs="tcp:33735:40"/>
+of the ſhadow will ſhew what of the Clock it is, for at the end of the great Finger, it is 7 in the Morning, or 5 in the Evening; at the end of the Ring-Finger, it is 8 in the Morning, or 4 in the Afternoon; at the end of the little Finger, or firſt Joynt, it is 9 in the Morning, or 3 in the Afternoon; 10 and 2, at the ſe<g ref="char:EOLhyphen"/>cond Joynt, 11 and 1, at the third Joynt, and mid-day in the Line following, which comes from the end of the <hi>Index.</hi> Note, that this Experiment muſt be perform'd by the left Hand.</p>
+               </div>
+               <div n="15" type="section">
+                  <head>15. How one may find out what is hidden in two hands.</head>
+                  <p>Suppoſe that a Perſon holds divers things in his Hands, as Sil<g ref="char:EOLhyphen"/>ver and Braſs, and in one Hand
+<pb n="77" facs="tcp:33735:40"/>
+he holds the Silver, and in the other the Braſs; Now to know which Hand the Silver is in, and which the Braſs, appoint for the Silver 4 Shillings, and for the Braſs 3 Shillings, or any other Pie<g ref="char:EOLhyphen"/>ces, ſo one be odd, and the other even, then bid him treble that which is in the right Hand, and double that which is in the left; then bid him add theſe two Products together, and ask him if it be even or odd; if it be even, then the Silver is in the right Hand; if odd, the Sil<g ref="char:EOLhyphen"/>ver is in the left Hand.</p>
+               </div>
+               <div n="16" type="section">
+                  <pb n="78" facs="tcp:33735:41"/>
+                  <head>16. To cauſe Water (contrary to its nature) to aſcend.</head>
+                  <p>Take a Baſon with a Pint of Water in it, or thereabouts, then take an Earthen Pot or Jugg, with a round Belly, (fitteſt for this purpoſe) and light a piece of Paper) caſt it into the Jugg flaming, then turn quickly the Mouth of the Jugg downward, and ſet it on the midſt of the Baſon of Water; it will ſuck up all the Water, if it be no more then it can receive and con<g ref="char:EOLhyphen"/>tain in the Belly of it.</p>
+               </div>
+               <div n="17" type="section">
+                  <pb n="79" facs="tcp:33735:41"/>
+                  <head>17. How to know whether there be any Water in Wine or not.</head>
+                  <p>Take raw Pears, pare them and make them clean, and cut them in the middle, or elſe take Mul<g ref="char:EOLhyphen"/>berries, and caſt them into the Wine, and if they ſwim upon the Wine, it is pure and clean with<g ref="char:EOLhyphen"/>out Water, but if they ſink to the bottom, then there is Water mixt with the Wine.</p>
+               </div>
+               <div n="18" type="section">
+                  <head>18. To make old Writing look fair.</head>
+                  <p>Take Galls and boyl them in Wine, and waſh the Writing therewith.</p>
+               </div>
+               <div n="19" type="section">
+                  <pb n="80" facs="tcp:33735:42"/>
+                  <head>19. To prevent Fleas from infeſt<g ref="char:EOLhyphen"/>ing Dogs.</head>
+                  <p>Take the green outward Shell of Walnuts, and ſtamp them, and anoint the Dogs with it where the Fleas vex them, and eſpecially in the Ears, and the Fleas will not touch them.</p>
+               </div>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:33735:42"/>
+            <head>
+               <hi>A CATALOGUE</hi> Of Fourteen <g ref="char:V">Ʋ</g>ſeful BOOKS, Printed for <hi>John Harris,</hi> at the <hi>Harrow,</hi> against the Church in the <hi>Poultrey.</hi>
+            </head>
+            <p n="1">1. <hi>INſtructions for Children:</hi> Or, The Child's and Youth's Delight, teaching an eaſie Way to Spell and Read true <hi>Eng<g ref="char:EOLhyphen"/>liſh.</hi> Containing the Father's God<g ref="char:EOLhyphen"/>ly Advice; Directing Parents in a Right and Spiritual Manner to Educate their Children. With a Chriſtian Catechiſm, wherein all the chief Principles of <hi>true Chri<g ref="char:EOLhyphen"/>ſtianity</hi> are clearly opened. Toge<g ref="char:EOLhyphen"/>ther with many other things both
+<pb facs="tcp:33735:43"/>
+Pleaſant and Uſeful for the Edu<g ref="char:EOLhyphen"/>cation of Children. Written by <hi>B. Keach,</hi> Author of <hi>War with the Devil.</hi> Recommended to the Uſe of all <hi>Parents</hi> and <hi>Schoolmaſters,</hi> by <hi>H. Knollis.</hi> Price Bound 8 <hi>d.</hi>
+            </p>
+            <p n="2">2. <hi>The Balm of the Covenant ap<g ref="char:EOLhyphen"/>plied to the Bleeding Wounds of Affli<g ref="char:EOLhyphen"/>cted Saints.</hi> Firſt Compoſed for the Relief of a Pious and Worthy Fa<g ref="char:EOLhyphen"/>mily, mourning over the Deaths of their hopeful Children; and now made Publick for the Sup<g ref="char:EOLhyphen"/>port of all Chriſtians, ſorrowing on the ſame or any other Account. To which is added, A Sermon, Preached for the Funeral of that Excellent and Religious Gentle<g ref="char:EOLhyphen"/>man, <hi>John Upton</hi> of <hi>Lupton,</hi>
+               <abbr>Eſq</abbr> By <hi>John Flavell,</hi> Preacher of the Goſpel at <hi>Dartmouth</hi> in <hi>Devon.</hi> Price 1. <hi>s.</hi>
+            </p>
+            <p n="3">3. <hi>A Diſcourſe of Divine Provi<g ref="char:EOLhyphen"/>dence.</hi>
+               <pb facs="tcp:33735:43"/>
+1. <hi>In General:</hi> That there is a Providence excerciſed by God in the World. 2. <hi>In Particular:</hi> How all God's Providences in the World, are in order to the good of his People. By the late learned Di<g ref="char:EOLhyphen"/>vine, <hi>Stephen Charnock,</hi> B. D. ſome<g ref="char:EOLhyphen"/>time Fellow of <hi>New Colledge</hi> in <hi>Oxon.</hi> Price Bound 3 <hi>s.</hi>
+            </p>
+            <p n="4">4. <hi>The Conviction of Worldly Va<g ref="char:EOLhyphen"/>nity:</hi> Or, The Wandring Prodi<g ref="char:EOLhyphen"/>gal, and his Return: In Two Parts. Part I. Containing his De<g ref="char:EOLhyphen"/>bate with himſelf about his ſetting forward in ſearch of the Palace of <hi>Worldly Felicity;</hi> His harkning to the Advice of <hi>Folly,</hi> and ſubmitting himſelf to her Conduct; the man<g ref="char:EOLhyphen"/>ner of her furniſhing him out; of the Progreſs he made, and the va<g ref="char:EOLhyphen"/>rious Adventures he met with by the way: As alſo the Entertain<g ref="char:EOLhyphen"/>ment he found at his Arrival, and
+<pb facs="tcp:33735:44"/>
+his Riotous Living there; With his Deſcription of the Vices Reign<g ref="char:EOLhyphen"/>ing therein. Part II. Giving a full Account of his Miraculous E<g ref="char:EOLhyphen"/>ſcape from the Palace of <hi>Worldly Felicity:</hi> Of the glorious Proſpect he had of the <hi>Coeleſtial City;</hi> And of the Progreſs he made towards it, under the Conduct of <hi>Divine Grace:</hi> With the manner of his Proceeding, and the ſeveral Oc<g ref="char:EOLhyphen"/>currences he met with by the way: His Arrival at the Palace of <hi>Virtue</hi> and <hi>True Felicity,</hi> and his Joyful Reception there: His Ex<g ref="char:EOLhyphen"/>cellent Deſcription thereof, and of the Divine and Moral Virtues which he found therein. Both pleaſant and profitable. Deliver'd under the ſimilitude of <hi>A Wandring Youth.</hi> Illuſtrated with proper Cuts. Price Bound 1 <hi>s.</hi>
+            </p>
+            <p n="5">5. <hi>Come and Welcome to Jeſus
+<pb facs="tcp:33735:44" rendition="simple:additions"/>
+Chriſt:</hi> Or, A plain and profitable Diſcourſe on <hi>John</hi> 6. Verſe 37. Shewing the Cauſe, Truth and Manner of the Coming of a <hi>Sin<g ref="char:EOLhyphen"/>ner to Jeſus Chriſt;</hi> with his Hap<g ref="char:EOLhyphen"/>py Reception, and Bleſſed Enter<g ref="char:EOLhyphen"/>tainment. <hi>The Third Addition, with Additions.</hi> By <hi>John Bunyon,</hi> Author of the <hi>Pilgrims Progreſs.</hi> Price Bound 1 <hi>s.</hi>
+            </p>
+            <p n="6">6. A <hi>Diſcourſe</hi> upon the <hi>Phariſee</hi> and the <hi>Publican.</hi> Wherein ſeveral weighty things are handled: As the Nature of Prayer, and of O<g ref="char:EOLhyphen"/>bedience to the Law; with how far it obliges Chriſtians, and where<g ref="char:EOLhyphen"/>in it conſiſts: Wherein is alſo ſhewed the equally deplorable condition of the <hi>Phariſee,</hi> or Hy<g ref="char:EOLhyphen"/>pocrital and Self-righteous <hi>Man,</hi> and of the <hi>Publican</hi> or <hi>Sinner.</hi> Together, with the Way and Method of God's Free Grace in
+<pb facs="tcp:33735:45"/>
+pardoning penitent Sinners. Price Bound 1 <hi>s.</hi>
+            </p>
+            <p n="7">7. <hi>The Saints Comfort, in all, but more eſpecially in Evil Times.</hi> Drawn from Twelve ſeveral Texts of Scri<g ref="char:EOLhyphen"/>pture; which are briefly explain<g ref="char:EOLhyphen"/>ed in this ſmall Piece. By <hi>T. G.</hi> Miniſter of the Goſpel. Price 1 <hi>s.</hi>
+            </p>
+            <p n="8">8. <hi>A Directory for Midwives:</hi> Or, A Guide for Women in their Conception, Bearing, and Suck<g ref="char:EOLhyphen"/>ling their Children. The firſt part contains, 1. The Anatomy of the Veſſels of Generation. 2. The For<g ref="char:EOLhyphen"/>mation of the Child in the Womb. 3. What hinders Conception, and its Remedies. 4. What furthers Conception. 5. A Guide for Wo<g ref="char:EOLhyphen"/>men in Conception. 6. Of Miſ<g ref="char:EOLhyphen"/>carriage in Women. 7. A Guide for Women in their Labour. 8. A Guide for Women in their Lying-Inn. 9. Of Nurſing Children. By
+<pb facs="tcp:33735:45"/>
+               <hi>Nicholas Culpepper.</hi> Price Bound 3 <hi>s.</hi>
+            </p>
+            <p n="9">9. A pleaſant and compendious <hi>Hiſtory,</hi> of the firſt <hi>Inventers</hi> and <hi>Inſtituters</hi> of the moſt Famous <hi>Arts, Myſteries, Laws, Cuſtoms</hi> and <hi>Man<g ref="char:EOLhyphen"/>ners</hi> in the <hi>whole World.</hi> Together, with many other Rarities and Re<g ref="char:EOLhyphen"/>markable things, rarely known, and never before made publick. To which are added, ſeveral cu<g ref="char:EOLhyphen"/>rious Inventions, peculiarly attri<g ref="char:EOLhyphen"/>buted to <hi>England</hi> and <hi>Engliſh-men.</hi> The whole Work alphabetically digeſted, and very helpful to the Readers of Hiſtory. Price Bound 1 <hi>s.</hi>
+            </p>
+            <p n="10">10. <hi>England's Jeſts Refin'd and Improv'd;</hi> Being a <hi>choice Collection</hi> of the merrieſt Jeſts, ſmarteſt Re<g ref="char:EOLhyphen"/>partee's, wittieſt Sayings, and moſt notable Bulls, diſpers'd through the ſeveral Tracts on thoſe Subjects;
+<pb facs="tcp:33735:46"/>
+with many new Ones, never be<g ref="char:EOLhyphen"/>fore printed. To which are added, <hi>Fourteen Ingenious Characters, drawn to the Life.</hi> The <hi>whole Work</hi> com<g ref="char:EOLhyphen"/>pil'd with great care and exact<g ref="char:EOLhyphen"/>neſs: And may ſerve as the witty Man's <hi>Companion,</hi> the buſie Man's <hi>Diverſion,</hi> and the melancholy Man's <hi>Phyſick and Recreation.</hi> The Second Edition, with Additions of ſeveral Jeſts, witty Sayings, Bulls, and Two new Characters. Calculated for the Innocent ſpend<g ref="char:EOLhyphen"/>ing of the Winter Evenings. By <hi>H. C. Price Bound</hi> 1 <hi>s.</hi>
+            </p>
+            <p n="11">11. <hi>A Preſent for Ladies.</hi> The Nimphs of <hi>Diana:</hi> Or, The Ex<g ref="char:EOLhyphen"/>cellencies of <hi>Women-kind,</hi> deſcrib'd as well in their External Beauty, as Internal Vertue; being an Ad<g ref="char:EOLhyphen"/>vocate for the <hi>Fair Sex;</hi> com<g ref="char:EOLhyphen"/>priz'd in an Illuſtrious Hiſtory of it, repreſented not only in lively
+<pb facs="tcp:33735:46"/>
+and pathetical Diſcourſes, ground<g ref="char:EOLhyphen"/>ed upon Reaſon, but in ſundry rare Examples of <hi>Virtuous Love, Piety, Prudence, Modeſty, Chaſtity, Patience, Humility, Temperance, Con<g ref="char:EOLhyphen"/>duct, Conſtancy,</hi> and <hi>Firmneſs of</hi> Mind, with what elſe in the like nature, is neceſſary to the Accom<g ref="char:EOLhyphen"/>pliſhment of the <hi>moſt celebrated Beau<g ref="char:EOLhyphen"/>ties;</hi> with other Examples of <hi>Wo<g ref="char:EOLhyphen"/>men,</hi> skill'd in the moſt curious <hi>Arts</hi> and <hi>Sciences.</hi> To which are added, The Examples of <hi>warlike Women,</hi> their <hi>noble Exploits</hi> and <hi>Vi<g ref="char:EOLhyphen"/>ctories:</hi> With the <hi>Prophecies</hi> and <hi>Predictions</hi> of the <hi>Sybils,</hi> in relation to our <hi>Saviour Chriſt, &amp;c.</hi> And as an <hi>Appendix,</hi> the Character of a <hi>Vertuous Woman</hi> in all her <hi>Capa<g ref="char:EOLhyphen"/>cities, viz.</hi> Of a <hi>Virgin,</hi> of a <hi>Wife,</hi> and of a <hi>Widow;</hi> wherein is ſhew'd, the happineſs that accrues to <hi>Man,</hi> in the poſſeſſion of ſo great a
+<pb facs="tcp:33735:47"/>
+Bleſſing as a <hi>vertuous Woman;</hi> with <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Reaſons, why <hi>Man's</hi> happineſs is not compleat on Earth, without the charming creature <hi>Woman.</hi> The whole <hi>Work</hi> enrich'd and inter<g ref="char:EOLhyphen"/>mix'd with <hi>curious Poetry,</hi> and <hi>deli<g ref="char:EOLhyphen"/>cate Fancy,</hi> ſuitable to ſo <hi>charming a Subject. Price Bound 1 s.</hi>
+            </p>
+            <p n="12">12. <hi>The True Fortune-Teller:</hi> Or, <hi>Guide to Knowledge.</hi> Diſcovering the whole Art of <hi>Chyromancy, Phy<g ref="char:EOLhyphen"/>ſiognomy, Metopoſcopy,</hi> and <hi>Aſtrology.</hi> Containing, 1. A Deſcription of the <hi>Planets,</hi> their power and in<g ref="char:EOLhyphen"/>fluence over the Bodies of Men, Women, and Children. 2. Of the ſe<g ref="char:EOLhyphen"/>veral Lines, Mounts, Marks, An<g ref="char:EOLhyphen"/>gles, and ſacred Characters in the Hand and Wriſt; and <hi>Planets</hi> they are governed as to good or bad Fortune. 3. Of Phyſiognomy. 4. Obſervations on the Eyes, Eye<g ref="char:EOLhyphen"/>brows, Noſe, Chin, Neck, Hair,
+<pb facs="tcp:33735:47"/>
+Beard, and Face. 5. Metopoſcopy, or the ſignification of the Lines in the Face. 6. Of Moles, and their ſig<g ref="char:EOLhyphen"/>nifications. 7. Of Dreams, and their Interpretations. 8. Of Nativities, and their Calculation. 9. Of the Rod, by which hidden Treaſure is found. 10. Of Marriage, and at what time any Perſon ſhall be mar<g ref="char:EOLhyphen"/>ried. 11. Rules to know the dan<g ref="char:EOLhyphen"/>ger of Death. 12. Of good and bad Days. 13. The manner of reſol<g ref="char:EOLhyphen"/>ving doubtful Queſtions, as to Friends, Marriages, places of A<g ref="char:EOLhyphen"/>bode, Health, Proſperity or Adver<g ref="char:EOLhyphen"/>ſity, Love, or Buſineſs. 14. Of <hi>Pytha<g ref="char:EOLhyphen"/>goras</hi> his Wheel of Fortune. 15. Of the good and bad days in each Month relating to Health. To which are added, <hi>Ariſtotles</hi> Obſer<g ref="char:EOLhyphen"/>vations on the Heavens, their Mo<g ref="char:EOLhyphen"/>tion. Of Fiery Meteors, Thunder, Lightning, Eclipſes, Comets, Earth<g ref="char:EOLhyphen"/>quakes
+<pb facs="tcp:33735:48"/>
+and Whirl-winds. Illuſtrated with ſeveral proper Figures. <hi>The ſecond Edition. Price Bound 1 s.</hi>
+            </p>
+            <p n="13">13. A ſhort and plain <hi>Account</hi> of the late-found <hi>Balſamick Wells</hi> at <hi>Hoxdon.</hi> And of their excellent Ver<g ref="char:EOLhyphen"/>tues above other <hi>Mineral Waters;</hi> which makes 'em effectually Cure moſt Diſeaſes both inward and outward: with <hi>Directions</hi> how to uſe 'em. By <hi>T. Byfield,</hi> M. D. <hi>Price ſtitch'd 6 d.</hi>
+            </p>
+            <p n="14">14. <hi>Twelve Ingenious Characters:</hi> Or, <hi>Pleaſant Diſcriptions</hi> of the Pro<g ref="char:EOLhyphen"/>perties of <hi>ſundry Perſons</hi> and <hi>Things, viz.</hi> An Importunate Dun, a Ser<g ref="char:EOLhyphen"/>jeant or Bailiff, a Pawn-Broker, a Priſon, a Tavern, a Scold, a Bad Husband, a Town-Fop, a Bawd, a fair and happy Milk-Maid, the Quacks Directory, a Young Ena<g ref="char:EOLhyphen"/>moriſt. <hi>Price ſtitch'd 3 d.</hi>
+            </p>
+            <pb facs="tcp:33735:48"/>
+         </div>
+      </back>
+   </text>
+</TEI>
